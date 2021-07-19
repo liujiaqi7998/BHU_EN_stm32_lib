@@ -1,6 +1,6 @@
 #include "qiArdlib.h"
 #define ADC_Pin PA0
-
+ 
 void setup()
 {
   // put your setup code here, to run once:
