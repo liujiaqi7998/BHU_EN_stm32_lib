@@ -1,0 +1,6 @@
+objcopy.exe --update-section ER_IROM1="e:\singlechip\project\20210718\out\Debug\小奇stm32f103.bin" "e:\singlechip\project\20210718\out\Debug\小奇stm32f103.axf" "e:\singlechip\project\20210718\out\Debug\小奇stm32f103.elf"
+
+objcopy.exe: e:\singlechip\project\20210718\out\Debug\小奇stm32f103.elf: warning: allocated section `RW_IRAM1' not in segment
+
+WARNING: The runtime version supported by this application is unavailable.
+Using default runtime: v4.0.30319

@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore",
+            "qiArdlib.h": "c",
+            "binary.h": "c",
+            "pgmspace.h": "c",
+            "adc.h": "c",
+            "qiardlib.h": "c",
+            "stdbool.h": "c",
+            "servo.h": "c",
+            "mcu_type.h": "c",
+            "stm32_adc.h": "c",
+            "stm32_usart.h": "c",
+            "qdtech.h": "c",
+            "stm32_head.h": "c"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99"
+    }
+}
