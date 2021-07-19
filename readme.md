@@ -48,4 +48,4 @@ Arduinolib——arduino改写库
 
 参考资料：https://hub.fastgit.org/FASTSHIFT/Arduino-For-Keil
 
-再次感谢给位学长
+再次感谢各位学长
