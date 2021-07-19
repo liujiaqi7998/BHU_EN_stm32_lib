@@ -40,7 +40,9 @@ BHUEN_library——嵌入式库
 
 Core——核心库
 
-qiArdlib——arduino兼容库、
+qiArdlib——arduino兼容库
+
+Arduinolib——arduino改写库
 
 <br/>
 
